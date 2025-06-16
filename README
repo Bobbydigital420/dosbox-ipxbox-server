@@ -1,0 +1,7 @@
+DOSBox IPXBox Dedicated Server
+
+Running on default IPX port 213
+DOSBox clients can easily connect with 'ipxnet connect ipaddress'
+If using NAT then port forwarding port 213 is required
+
+IPBbox Server https://github.com/fragglet/ipxbox⁠
